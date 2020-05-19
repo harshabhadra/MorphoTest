@@ -1,0 +1,2 @@
+rootProject.name='MorphoTest'
+include ':app'
